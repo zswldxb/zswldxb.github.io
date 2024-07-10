@@ -573,9 +573,9 @@
 ]]></content>
   </entry>
   <entry>
-    <title>框架_OpenPCDet 框架</title>
+    <title>框架_OpenPCDet</title>
     <url>/posts/20240901000100.html</url>
-    <content><![CDATA[<h1 id="openpcdet-框架"><a class="markdownIt-Anchor" href="#openpcdet-框架"></a> OpenPCDet 框架</h1>
+    <content><![CDATA[<h1 id="openpcdet"><a class="markdownIt-Anchor" href="#openpcdet"></a> OpenPCDet</h1>
 <h2 id="todo-list"><a class="markdownIt-Anchor" href="#todo-list"></a> TODO LIST</h2>
 <ul>
 <li>[ ] add checkpoint</li>
