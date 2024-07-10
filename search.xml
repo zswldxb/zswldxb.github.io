@@ -573,9 +573,9 @@
 ]]></content>
   </entry>
   <entry>
-    <title></title>
-    <url>/posts/0.html</url>
-    <content><![CDATA[<h1 id="openpcdet-环境构建"><a class="markdownIt-Anchor" href="#openpcdet-环境构建"></a> OpenPCDet 环境构建</h1>
+    <title>框架_OpenPCDet 框架</title>
+    <url>/posts/20240901000100.html</url>
+    <content><![CDATA[<h1 id="openpcdet-框架"><a class="markdownIt-Anchor" href="#openpcdet-框架"></a> OpenPCDet 框架</h1>
 <h2 id="todo-list"><a class="markdownIt-Anchor" href="#todo-list"></a> TODO LIST</h2>
 <ul>
 <li>[ ] add checkpoint</li>
@@ -614,6 +614,12 @@
 <h2 id="demo"><a class="markdownIt-Anchor" href="#demo"></a> Demo</h2>
 <figure class="highlight python"><table><tr><td class="code"><pre><span class="line">python demo.py --cfg_file cfgs/kitti_models/pv_rcnn.yaml --ckpt ./../ckpt/pv_rcnn_8369.pth --data_path ./../data/kitti/training/velodyne/<span class="number">000008.</span>bin</span><br></pre></td></tr></table></figure>
 ]]></content>
+      <categories>
+        <category>框架</category>
+      </categories>
+      <tags>
+        <tag>框架</tag>
+      </tags>
   </entry>
   <entry>
     <title>论文_Deformable Convolutional Networks</title>
